@@ -2,6 +2,8 @@
 
 > Config-driven daily, weekly, and monthly planning skills for [Claude Code](https://claude.ai/claude-code).
 
+English | [中文](./README.zh.md)
+
 ## What this is
 
 A set of Claude Code skills that generate your daily plan, weekly sprint, and monthly retro — pulling from your calendar, GitHub, Slack, Linear, and other tools you already use. Works with whatever tools you have; everything is optional.
